@@ -3,7 +3,6 @@
 require_once 'config.php';
 
 session_start();
-
 // Define variables and initialize with empty values
 $username = $password = "default";
 $username_err = $password_err = "";
