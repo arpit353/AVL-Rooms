@@ -1,7 +1,6 @@
 <?php
 
 require_once 'config.php';
-
 session_start();
 
 // Define variables and initialize with empty values
