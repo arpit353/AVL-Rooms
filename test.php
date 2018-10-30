@@ -230,6 +230,7 @@ function deselect(source){
 
 
 var flag = 0;
+var flag = 2;
 function popup(source){
   var w = document.getElementById("pg1");
   var x = document.getElementById("pg2");
