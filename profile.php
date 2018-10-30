@@ -173,7 +173,7 @@ if(isset($_SESSION['username']))
   </nav>
   <div class="avl-container">
 	<div class="tagline">
-		<h4>Welcome <span><?php echo ($first_name)." ".($last_name) ?></span></h4>
+		<h4>Welcome here<span><?php echo ($first_name)." ".($last_name) ?></span></h4>
 		<p>You can change your account details here.</p>
 	</div>
   </div>
