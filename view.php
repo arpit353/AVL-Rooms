@@ -42,7 +42,7 @@ if(!empty($_GET['id'])){
 
         
     }else{
-        echo 'No image found...';
+        echo 'No image found.. PLease try again later';
     }
 }
 ?>    
